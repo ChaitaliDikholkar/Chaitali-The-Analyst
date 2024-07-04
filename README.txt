@@ -28,14 +28,9 @@ Notes:
 * Trips that did not include a start or end date are excluded
 * Trips less than 1 minute in duration are excluded
 * Trips greater than 24 hours in duration are excluded
-* Data  before 2023/09 show 3 types of bike classic, electric, docked in rideable_type column
-* Data between 2024/05-2023/09 contain classic and electric bike types in rideable_type column
-* Divvy_Trips_2023_Q1 has 1,608,270 rows   
-* Divvy_Trips_2023_Q2 has 1,608,270 rows
-* Divvy_Trips_2023_Q3 has 1,608,270 rows
-* Divvy_Trips_2023_Q4 has 1,608,270 rows
-* Divvy_Trips_2024_Q1 has 669,239 rows
-* Divvy_Trips_2023_Q2 has 1,608,270 rows
+* Data for 2019, 2020 show 2 types of bike classic, docked in rideable_type column
+* Divvy_Trips_2019_Q1 has 4,26,888 rows   
+* Divvy_Trips_2020_Q1 has 3,65,070 rows
 
 
 
